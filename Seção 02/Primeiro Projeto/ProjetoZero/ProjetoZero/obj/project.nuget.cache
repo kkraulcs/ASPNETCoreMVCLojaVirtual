@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KLc+VdklX9bPy6QvJf/wkdhstYJFJZ7HrqaxjpklLfQHcwBej4Vcz4ohbUdhV86jtelD4cuEYjRUzevsKZZmAA==",
+  "dgSpecHash": "1HXC9gGjpaLIGn4JrN3QSOgErAZ4SVcc0Aj6wE/VQ216RWhDA7qBtwWqg6B8i+kU4dLms7ElNKspTKuY2LNPiA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kkrau\\source\\repos\\Primeiro Projeto\\ProjetoZero\\ProjetoZero\\ProjetoZero.csproj",
+  "projectFilePath": "C:\\GIT\\ASPNETCoreMVCLojaVirtual\\Seção 02\\Primeiro Projeto\\ProjetoZero\\ProjetoZero\\ProjetoZero.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kkrau\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.6\\microsoft.aspnet.webapi.client.5.2.6.nupkg.sha512",
     "C:\\Users\\kkrau\\.nuget\\packages\\microsoft.aspnetcore\\2.1.1\\microsoft.aspnetcore.2.1.1.nupkg.sha512",

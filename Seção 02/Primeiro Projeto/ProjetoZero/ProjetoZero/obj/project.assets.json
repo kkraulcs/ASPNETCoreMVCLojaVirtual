@@ -11888,11 +11888,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kkrau\\source\\repos\\Primeiro Projeto\\ProjetoZero\\ProjetoZero\\ProjetoZero.csproj",
+      "projectUniqueName": "C:\\GIT\\ASPNETCoreMVCLojaVirtual\\Seção 02\\Primeiro Projeto\\ProjetoZero\\ProjetoZero\\ProjetoZero.csproj",
       "projectName": "ProjetoZero",
-      "projectPath": "C:\\Users\\kkrau\\source\\repos\\Primeiro Projeto\\ProjetoZero\\ProjetoZero\\ProjetoZero.csproj",
+      "projectPath": "C:\\GIT\\ASPNETCoreMVCLojaVirtual\\Seção 02\\Primeiro Projeto\\ProjetoZero\\ProjetoZero\\ProjetoZero.csproj",
       "packagesPath": "C:\\Users\\kkrau\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kkrau\\source\\repos\\Primeiro Projeto\\ProjetoZero\\ProjetoZero\\obj\\",
+      "outputPath": "C:\\GIT\\ASPNETCoreMVCLojaVirtual\\Seção 02\\Primeiro Projeto\\ProjetoZero\\ProjetoZero\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -11910,7 +11910,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
